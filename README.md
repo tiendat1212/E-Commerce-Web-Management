@@ -65,6 +65,6 @@ Dự án này hướng đến các doanh nghiệp vừa và nhỏ, giúp họ d�
 - Nâng cấp UI/UX để trải nghiệm người dùng tốt hơn
 
 ## Thông tin liên hệ
-Nếu có bất kỳ vấn đề hoặc yêu cầu hỗ trợ nào, vui lòng liên hệ với nhóm phát triển qua email: support@web2041.com.
+Nếu có bất kỳ vấn đề hoặc yêu cầu hỗ trợ nào, vui lòng liên hệ với nhóm phát triển qua email: 22010326@st.phenikaa-uni.edu.vn.
 
 
